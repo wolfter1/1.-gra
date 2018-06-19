@@ -1,9 +1,3 @@
-﻿  Źródło.cpp
-c:\users\welter\source\repos\gra\gra\źródło.cpp(24): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
-c:\users\welter\source\repos\gra\gra\źródło.cpp(34): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
-c:\users\welter\source\repos\gra\gra\źródło.cpp(40): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
-c:\users\welter\source\repos\gra\gra\źródło.cpp(62): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
-c:\users\welter\source\repos\gra\gra\źródło.cpp(105): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
-c:\users\welter\source\repos\gra\gra\źródło.cpp(160): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
-c:\users\welter\source\repos\gra\gra\źródło.cpp(174): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+﻿  Functions.cpp
+c:\users\welter\source\repos\gra\gra\functions.cpp(8): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
   gra.vcxproj -> C:\Users\welter\source\repos\gra\Debug\gra.exe
